@@ -14,7 +14,9 @@ SAVEE Dataset(http://kahlan.eps.surrey.ac.uk/savee/Download.html): This dataset 
 
 Unveiling Feature Extraction
 An integral step involves extracting essential features from audio files, facilitating the model's grasp of auditory nuances. Employing the powerful LibROSA library, we execute feature extraction. Notably, all audio files are temporally adjusted to three seconds to ensure uniformity. Additionally, doubling the sampling rate augments the dataset's comprehensiveness, thereby amplifying classification accuracy.
+
 [**LibROSA**](https://librosa.github.io/librosa/) library in python which is one of the libraries used for audio analysis. 
+
 <br>
 ![](images/feature.png?raw=true)
 <br>
@@ -23,27 +25,13 @@ An integral step involves extracting essential features from audio files, facili
 Crafting Robust Models
 Given the classification nature of the task, the project aligns with utilizing a Convolution Neural Network (CNN). Although other models, such as Multilayer Perceptrons and Long Short Term Memory (LSTM) networks, were explored, the CNN demonstrated superior performance during evaluation.
 
-CNN Architecture
+Train vs Test
 <br>
 ![](images/cnn.png?raw=true)
 <br>
 
-Predictions and  Testing
-After meticulous model refinement, we proceeded to make predictions on our test data. A glimpse of the actual versus predicted values is showcased below.
-
-<br>
-![](images/predict.png?raw=true)
-<br>
 Testing with Live Voices
 To validate the model's robustness against previously untested voices, we embarked on recording diverse voices articulating distinct emotions. Encouragingly, the model exhibited remarkable accuracy in identifying these novel emotional cues.
-Note: The audio contains a male voice --->**"This Movie sucks"** in a angry tone.
-<br>
-![](images/livevoice.PNG?raw=true)
-<br>
-
-<br>
-![](images/livevoice.PNG?raw=true).
-<br>
 
 Emotion mapping:
 
