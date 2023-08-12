@@ -40,8 +40,9 @@ Note: The audio contains a male voice --->**"This Movie sucks"** in a angry tone
 <br>
 ![](images/livevoice.PNG?raw=true)
 <br>
+
 <br>
-![](images/livevoice2.PNG?raw=true)
+![](images/livevoice.PNG?raw=true).
 <br>
 
 Emotion mapping:
