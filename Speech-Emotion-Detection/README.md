@@ -29,6 +29,8 @@ Testing with Live Voices
 To validate the model's robustness against previously untested voices, we embarked on recording diverse voices articulating distinct emotions. Encouragingly, the model exhibited remarkable accuracy in identifying these novel emotional cues.
 
 Prediction:
+
+
 ![predict](https://github.com/sidh4rth7/projects/assets/64648070/ac5f2bbf-072b-409f-9a58-e9ec8f063b86)
 
 Emotion mapping:
