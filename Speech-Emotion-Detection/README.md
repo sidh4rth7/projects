@@ -17,11 +17,6 @@ An integral step involves extracting essential features from audio files, facili
 
 [**LibROSA**](https://librosa.github.io/librosa/) library in python which is one of the libraries used for audio analysis. 
 
-<br>
-![](images/feature.png?raw=true)
-<br>
-
-
 Crafting Robust Models
 Given the classification nature of the task, the project aligns with utilizing a Convolution Neural Network (CNN). Although other models, such as Multilayer Perceptrons and Long Short Term Memory (LSTM) networks, were explored, the CNN demonstrated superior performance during evaluation.
 
