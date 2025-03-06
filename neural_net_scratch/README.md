@@ -95,6 +95,8 @@ For alpha 0.01 & Iteration 490, Accuracy: 0.9048
 
 ## Usage
 Run the script to train the model on the dataset. Ensure the dataset is correctly located in the specified path.
+path to data : "/data/train.csv"
+
 
 ## Future Improvements
 - Implement batch processing for better efficiency.
