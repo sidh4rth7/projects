@@ -89,7 +89,7 @@ The network is trained for 500 iterations. Every 10 iterations, the accuracy is 
 4. **One-hot Encoding** - Converts categorical labels into vector form.
 5. **Gradient Descent** - Optimizes weights iteratively to minimize error.
 
-### Performance
+### Performance of this Mode;
 For alpha 0.01 & Iteration 490, Accuracy: 0.7578
 For alpha 0.01 & Iteration 490, Accuracy: 0.9048
 
