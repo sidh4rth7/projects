@@ -1,0 +1,6 @@
+FastAPI
+uvicorn
+pydantic
+langchain-openai
+python-dotenv
+asyncio
